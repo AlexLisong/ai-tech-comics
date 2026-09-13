@@ -1,0 +1,16 @@
+Use case: illustration-story
+Asset type: finished square two-panel social-media comic.
+
+Create an original black-and-white pen-drawn internet reaction comic. Two equally wide tall panels side by side, generous white gutters, slightly wobbly black borders, no title above or below. Large round-headed stick-figure human, expressive eyes and eyebrows, sparse cafe setting and laptop. Pure white paper and black ink only. Handmade expressive lines and a little crosshatching. No logos, signature, watermark, color or gray gradients. Main speech bubbles must be very easy to read at phone size.
+
+LEFT PANEL: A cheerful, relaxed developer at a cafe table with one coffee cup and a laptop. A small, legible cafe placard on the table says exactly:
+"FREE AI TOKENS WITH EVERY COFFEE"
+The developer points proudly at the placard. Their large speech bubble at the top says exactly:
+"My coffee comes with free AI tokens!"
+
+RIGHT PANEL: Later, the same developer has enormous bloodshot-looking ink-ringed eyes, messy hair and trembling hands. There are many empty coffee cups all around, stacked unevenly on the cafe table. Use twitch lines for comic caffeine overload. A tiny upbeat robot face on the laptop speaks through a small speech bubble in the middle-right, saying exactly:
+"One more latte. Almost done."
+The human's large speech bubble at the top gives the main punchline, exactly:
+"I'm the power supply now."
+
+Give the punchline plenty of white space. The humor is the reversal: the human must keep drinking coffee to fuel the computer. Maintain the same character identity in both panels. No additional lettering on the cups or laptop; no extra dialogue. Energetic ink cartoon with exaggerated facial acting, composition calm on the left and chaotic on the right.

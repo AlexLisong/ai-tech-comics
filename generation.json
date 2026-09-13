@@ -1,0 +1,42 @@
+{
+  "created": "2026-09-13",
+  "model": "gpt-image-2.5-sunburst",
+  "generation_route": "Codex imagegen skill bundled CLI / OpenAI Image API",
+  "quality": "high",
+  "size": "1024x1024",
+  "postprocessing": "Grayscale export; original PNGs preserved in renders/original.",
+  "outputs": [
+    {
+      "image": "comics/01-ai-middle-manager.png",
+      "sha256": "730cf779f68d2532fc2fe5c06ad1af49c9b6a903faa34fcd7331ca98d4fe4893",
+      "prompt": "prompts/01-ai-middle-manager-prompt.txt",
+      "prompt_sha256": "609f6ef681ca0b4d87d0b064b9a01a1e5e6d54c1e6058bb92a34606f66712889",
+      "original": "renders/original/01-ai-middle-manager-gpt25.png",
+      "original_sha256": "7df4cb2c23e2d9a48c2bc7d07f25dc4ca2c15391a175c54ffc7bfe21a4628c6f"
+    },
+    {
+      "image": "comics/02-the-19-dollar-toaster.png",
+      "sha256": "60a0a0a2291bf66232a1a5be2798529b2d5995e599fe25805574378bd903bcab",
+      "prompt": "prompts/02-the-19-dollar-toaster-prompt.txt",
+      "prompt_sha256": "7c069fe1c491c34bd0a81c5d34dfc084c0837e2d7755799ee83399a9b2dfb74a",
+      "original": "renders/original/02-the-19-dollar-toaster-gpt25.png",
+      "original_sha256": "21fd2a8efb18e17c5d0f58a0198c437fc3b0fd7494555e478cc3c34dcbd28056"
+    },
+    {
+      "image": "comics/03-human-power-supply.png",
+      "sha256": "f3b0e4b3289d314cc6d9b49d30ad89dfc876b059c1f3495816d71c56efab65d0",
+      "prompt": "prompts/03-human-power-supply-prompt.txt",
+      "prompt_sha256": "fea3b00280a46fae8ba2e9ae7c68647caf1c25d2773c638f13ecaae84671507c",
+      "original": "renders/original/03-human-power-supply-gpt25.png",
+      "original_sha256": "6c3f247c8150d2fd69f628f04789f6ed1bfb15a9f4c1fe88c74f64ffd3fc872e"
+    },
+    {
+      "image": "comics/04-certified-slop.png",
+      "sha256": "32a383577e5231e50902b1f6fcd5ee00ff8c7c4347da9ec280f3c7375246922e",
+      "prompt": "prompts/04-certified-slop-prompt.txt",
+      "prompt_sha256": "7c75b2654829c38ee2fe7a860e1a6bfef850c9294912bc07bf2b60742759dd15",
+      "original": "renders/original/04-certified-slop-gpt25.png",
+      "original_sha256": "511c513d887d5f91aa74a20bc84e9a69e178f6208b71e44c6bfa4dfd9f09d7de"
+    }
+  ]
+}

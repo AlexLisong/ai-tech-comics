@@ -1,0 +1,20 @@
+Use case: illustration-story
+Asset type: square two-panel social-media comic
+
+Create an original black-and-white hand-inked comic. Two equally wide tall panels side by side, white paper, slightly irregular black borders, expressive round-headed characters, sparse setting, and large legible speech bubbles. Use energetic facial acting. No logos, signatures, watermarks, external title, gradients, or color.
+
+Concept: [The human consequence or ironic reversal in one sentence.]
+
+LEFT PANEL:
+Setting: [A simple location and one or two useful props.]
+Character: [Appearance, pose, and confident or relaxed expression.]
+Main speech bubble, verbatim: "[Short setup.]"
+
+RIGHT PANEL:
+Reveal: [A concrete visual that makes the reversal obvious.]
+Same character: [An exaggerated reaction with consistent identity.]
+Main speech bubble, verbatim: "[Short punchline.]"
+Speaker: [Exactly who says the punchline; aim its bubble tail at that character.]
+Optional secondary labels, verbatim: "[Only text needed for the joke.]"
+
+Keep the main dialogue readable at phone size. Preserve left-to-right reading order. Give text and faces enough space. No extra dialogue. Make the visual show the joke rather than merely decorating the text.

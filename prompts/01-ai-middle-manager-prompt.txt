@@ -1,0 +1,22 @@
+Use case: illustration-story
+Asset type: square two-panel social-media comic
+Title for file/caption only: I Automated Myself Into Management
+
+Create an original black-and-white hand-inked internet comic. Use a square composition with two equally sized tall panels side by side. White paper, imperfect black panel borders, loose pen strokes, expressive round-headed stick figures, exaggerated facial acting, sparse desk and laptop backgrounds. The left panel is calm and spacious; the right is comically overwhelmed. Large, highly legible hand-lettered speech bubbles. Clear left-to-right reading order.
+
+Reference image role: visual format and mood only. The reference is a two-panel monochrome comic with a smug computer user in the first panel and a shocked reaction in the second. Use original faces, staging, dialogue and joke. Do not reproduce the reference's sales pitch or text. No logos, signatures or watermark.
+
+LEFT PANEL:
+A smug, relaxed solo developer leans back at their laptop, hands behind head. One large speech bubble in the top third says exactly:
+"I automated my entire job with AI agents."
+
+RIGHT PANEL:
+The same developer now has enormous exhausted eyes, a frazzled expression and a hastily added necktie. They are hunched over the laptop as four notification cards with tiny distinct robot avatars stack upward beside them. Keep the notifications readable and give each its own space. They say exactly:
+"Quick sync?"
+"Blocked by Agent 12."
+"Can you clarify?"
+"Budget approval?"
+The developer's large speech bubble above the chaos delivers the punchline exactly:
+"I invented middle management."
+
+Maintain consistent character identity between panels. Prioritize the two main speech bubbles at phone viewing size. Notification cards provide the secondary joke. No extra dialogue, title text, panel numbers, charts or explanatory captions. Pure black and white, no gradients or color. Finished editorial cartoon, deliberately loose and funny rather than glossy.

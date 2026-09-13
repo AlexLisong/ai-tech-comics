@@ -1,0 +1,17 @@
+Use case: illustration-story
+Asset type: finished square two-panel social-media comic.
+
+Create an original black-and-white pen-drawn internet reaction comic. Two equally wide tall panels side by side with white gutters and loose black panel borders. Large round-headed stick-figure human with exaggerated face and simple body. Sparse backgrounds, handmade ink outlines, small amount of crosshatching, white paper. Pure black and white only; no color, no gradients, no signatures, no watermark, no brand names. Highly legible large speech bubbles. No external title or footer.
+
+This is a fictional satire about confusing proof of camera capture with proof that a pictured thing is real. Do not depict a specific real phone brand or feature.
+
+LEFT PANEL: A smug tech enthusiast proudly holds up a camera phone with a large checkmark on its screen. Their large speech bubble at the top says exactly:
+"My phone proves my photos are real."
+Keep this panel calm and simple.
+
+RIGHT PANEL: Reveal the absurd loophole visually. The same enthusiast is taking a photograph of a printed, obviously artificial image propped upright on the desk: a cat with SIX CLEARLY VISIBLE LEGS, sitting on the moon in a tiny space helmet. Make the printed image large and the subject immediately recognizable. The phone is aimed at that printed image. An oversized rectangular verification notification floats by the phone with a checkmark and this exact text:
+"AUTHENTIC CAMERA CAPTURE"
+The human now has a comically shocked, wide-eyed expression, realizing what they have done. Their large speech bubble in the top third delivers the punchline exactly:
+"I just certified the slop."
+
+Keep the second panel uncluttered enough that the phone photographing the fake printed cat is instantly clear. The joke is a real photo OF a fake image. The verification certifies camera capture only; the irony is in the character's reaction. Make all lettering crisp and correctly spelled. No extra text. Maintain consistent character identity. A deliberately loose, funny hand-inked editorial comic.

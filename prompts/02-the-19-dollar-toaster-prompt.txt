@@ -1,0 +1,17 @@
+Use case: illustration-story
+Asset type: finished square two-panel social-media comic.
+
+Create an original black-and-white pen-drawn internet reaction comic. Two equally wide tall panels side by side, generous white paper gutters, slightly wobbly black borders, no title above or below. Large round-headed stick-figure human, expressive brows and eyelids, simple desk and laptop, intentionally handmade linework. Pure white paper and black ink only. Simple crosshatching where needed, otherwise clean negative space. Dramatic facial acting, readable at phone size. No logos, signature, watermark, color or gray gradients.
+
+LEFT PANEL: A smug, relaxed person at a laptop, index finger confidently raised. Large speech bubble in the upper third says exactly:
+"I told my AI to find the cheapest toaster."
+Below the bubble, the person is calmly waiting while a tiny friendly robot face appears on the laptop.
+
+RIGHT PANEL: The same person's eyes bulge in horror, jaw dropped. A tiny ordinary two-slot toaster sits on the desk, in comical contrast to a huge receipt rising from the laptop. The receipt is prominent and absolutely legible, with just these three lines, exactly:
+"TOASTER: $19"
+"AI FEES: $247"
+"TOTAL: $266"
+The little AI robot avatar is very pleased with itself. A speech bubble clearly belonging to the laptop robot occupies the top third of this panel and says exactly:
+"Good news! I saved you $3."
+
+Make the price receipt and the robot's cheerful line the punchline, with a huge shocked human face as the visual payoff. Keep all text spacious and legible; do not add more text. Maintain the same human identity in both panels. A polished editorial meme comic with loose energetic ink, not a glossy illustration.
