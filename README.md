@@ -4,6 +4,16 @@ Four original two-panel comics about AI and tech, with reusable prompts, researc
 
 ![Four AI tech comics](previews/four-comics.png)
 
+Browse the comics and prompts directly on GitHub; viewing this collection needs no installation, account, or API key. Image-generation credentials are needed only when creating new images.
+
+## Start here
+
+- **Read:** choose a finished comic and its exact prompt in the table below.
+- **Create:** adapt the [prompt template](prompts/template.txt) using the [creative workflow](WORKFLOW.md).
+- **Trace:** consult [source notes](research/sources.md) and the [generation manifest](generation.json) for the research, original files, and checksums.
+
+The stories are fictional satire. Research notes distinguish reported facts from invented dialogue and prices.
+
 ## Comics and exact prompts
 
 | Comic | Premise | Image | Prompt |
